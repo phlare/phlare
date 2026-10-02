@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @phlare
-- 👀 I like to learn new things, and then share what I've learned with people.
-- 💻 I work mainly in Elixir / React for my primary job, but I have side projects all over the map.
-- 🦆 Lately learning lots of things with Agentic Engineering and musing about it at [duckintheloop.dev](https://duckintheloop.dev/) 
+### Hi, I'm Mark 👋
 
-<!---
-phlare/phlare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I've been building websites and web applications since 1993. These days I'm a lead engineer working mostly in **Elixir** and **React**, and I build small, focused products on the side under **[Tiny Tools](https://tiny-tools.net)**.
+
+#### Things I've shipped
+
+- **[Tiny Inbox](https://tinyinbox.app)**: capture tasks, ideas, and follow-ups in one inbox and sort them later. Phoenix API, React web app, browser extension, and an email-in worker.
+- **[Sprout Words](https://sprout-words.com)**: an offline word-practice app for early readers on Fire tablets. No ads, no accounts.
+- **[Consumable Calculators](https://consumablecalculators.com)**: personalized "how often should I replace this?" calculators, each sourced from manufacturer and safety-agency guidance.
+
+#### Open-source templates (more to come)
+
+Some foundations to start new products from:
+
+- **[elixir-api-core](https://github.com/phlare/elixir-api-core)**: Phoenix API template.
+- **[node-edge-core](https://github.com/phlare/node-edge-core)**: TypeScript service template for integration-facing edge services.
+- **[web-app-core](https://github.com/phlare/web-app-core)**: Vite + React + TypeScript + Tailwind app shell with a typed API client, auth flow, and test/CI setup.
+
+#### Elsewhere
+- 💼 [LinkedIn](https://linkedin.com/in/mark-a-nelson) · ✉️ [hello@tiny-tools.net](mailto:hello@tiny-tools.net). 
